@@ -94,5 +94,9 @@
     "2021-11": {
         "portrait": "2021-11-portrait.jpg",
         "landscape": "2021-11.jpg"
+    },
+    "2021-12": {
+        "portrait": "2021-12-portrait.jpg",
+        "landscape": "2021-12.jpg"
     }
 }
