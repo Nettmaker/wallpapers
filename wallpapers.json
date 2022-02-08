@@ -102,5 +102,9 @@
     "2022-01": {
         "portrait": false,
         "landscape": "2022-01.jpg"
+    },
+	"2022-02": {
+        "portrait": "2022-02-portrait.jpg",
+        "landscape": "2022-02.jpg"
     }
 }
