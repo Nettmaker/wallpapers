@@ -106,5 +106,9 @@
 	"2022-02": {
         "portrait": "2022-02-portrait.jpg",
         "landscape": "2022-02.jpg"
+    },
+	"2022-03": {
+        "portrait": "2022-03-portrait.jpg",
+        "landscape": "2022-03.jpg"
     }
 }
