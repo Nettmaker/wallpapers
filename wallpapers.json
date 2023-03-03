@@ -149,14 +149,14 @@
     },
     "2023-01": {
     	"portrait":  "2023-01-portrait.jpg",
-	"landscape": "2023-01.jpg"
+	"landscape": "2023-01-updated.jpg"
     },
     "2023-02": {
     	"portrait":  "2023-02-portrait.jpg",
-	"landscape": "2023-02.jpg"
+	"landscape": "2023-02-updated.jpg"
     },
     "2023-03": {
     	"portrait":  "2023-03-portrait.jpg",
-	"landscape": "2023-03.jpg"
+	"landscape": "2023-03-updated.jpg"
     }
 }
