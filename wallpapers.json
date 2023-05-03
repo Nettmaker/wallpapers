@@ -162,5 +162,9 @@
     "2023-04": {
     	"portrait":  "2023-04-portrait.jpg",
 	"landscape": "2023-04.jpg"
+    },
+    "2023-05": {
+    	"portrait":  "2023-05-portrait.jpg",
+	"landscape": "2023-05.jpg"
     }
 }
