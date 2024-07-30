@@ -198,5 +198,9 @@
     "2024-04": {
     	"portrait":  "2024-04-portrait.jpg",
 	"landscape": "2024-04.jpg"
+    },
+    "2024-08": {
+    	"portrait":  "2024-08-portrait.jpg",
+	"landscape": "2024-08.jpg"
     }
 }
